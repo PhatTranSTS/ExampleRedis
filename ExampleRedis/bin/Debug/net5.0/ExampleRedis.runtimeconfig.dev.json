@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\phat.tran\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\phat.tran\\.nuget\\packages"
+    ]
+  }
+}
